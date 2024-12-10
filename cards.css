@@ -1,0 +1,53 @@
+*{
+    box-sizing: border-box;
+    margin: 0px;
+    padding: 0px;
+}
+
+body{
+    background-image: url(https://wallpaperaccess.com/full/1898296.jpg);
+    background-size: cover;
+    background-repeat: no-repeat;
+}
+#ttl{
+    color: white;
+    font-size: 50px;
+    margin: 20px;
+    text-shadow: 10px 20px 20px gold;
+    font-family:Georgia, 'Times New Roman', Times, serif;
+}
+#rg{
+    border: 2px solid white;
+    border-radius: 5px;
+    color: white;
+    text-align: center;
+    display: inline-block;
+    padding: 10px;
+    margin: 20px;
+    font-family:'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    box-shadow: 10px 15px 10px 10px gold;
+    background-color:black;
+}
+
+
+#as{
+    border: 2px solid white;
+    border-radius: 5px;
+    color: white;
+    text-align: center;
+    display: inline-block;
+    padding: 10px;
+    margin: 50px 30px 50px 55px;
+    font-family:'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    box-shadow: 10px 15px 10px 10px gold;
+    background-color: black;
+}
+
+#ftr{
+    color:skyblue;
+    font-size: 50px;
+    margin: 20px;
+    text-shadow: 10px 20px 20px white;
+    font-family:Georgia, 'Times New Roman', Times, serif;
+}
+
