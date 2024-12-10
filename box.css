@@ -12,14 +12,15 @@ body{
 #php{
     background-color: lightpink;
     height: 300px;
-    width: 750px;
+    width: 650px;
     border-radius: 10px;
     display: inline-block;
     /* margin: 30px 90px; */
-    margin-top: 30px;
-    margin-left: 120px;
+    /* margin-top: 30px;
+    margin-left: 80px;
     margin-right: 50px;
-    margin-bottom: 30px;
+    margin-bottom: 30px; */
+    margin: 50px;
 }
 button{
     background-color: black;
@@ -37,80 +38,88 @@ button{
 #jq{
     background-color: lightyellow;
     height: 300px;
-    width: 750px;
+    width: 650px;
     border-radius: 10px;
     display: inline-block;
     /* margin: 30px 95px; */
-    margin-top: 30px;
-    margin-left: 120px;
-    margin-right: 50px;
+    /* margin-top: 30px;
+    margin-left: 80px;
+    margin-right: 50px; */
+    margin: 40px;
 }
 
 #java{
     background-color:lightgrey;
     height: 300px;
-    width: 750px;
+    width: 650px;
     border-radius: 10px;
     display: inline-block;
     /* margin: 30px 95px; */
-    margin-top: 30px;
+    /* margin-top: 30px;
     margin-left: 120px;
-    margin-right: 50px;
+    margin-right: 50px; */
+    margin: 50px;
 }
 #cp{
     background-color: lightgreen ;
     height: 300px;
-    width: 750px;
+    width: 650px;
     border-radius: 10px;
     display: inline-block;
     /* margin: 30px 95px; */
-    margin-top: 30px;
+    /* margin-top: 30px;
     margin-left: 120px;
-    margin-right: 50px;
+    margin-right: 50px; */
+    margin: 40px;
 }
 #wt{
     background-color:lightskyblue ;
     height: 300px;
-    width: 750px;
+    width: 650px;
     border-radius: 10px;
     display: inline-block;
     /* margin: 30px 95px; */
-    margin-top: 30px;
+    /* margin-top: 30px;
     margin-left: 120px;
-    margin-right: 50px;
+    margin-right: 50px; */
+
+    margin: 50px;
 }
 #bt{
     background-color:lightgrey ;
     height: 300px;
-    width: 750px;
+    width: 650px;
     border-radius: 10px;
     display: inline-block;
     /* margin: 30px 95px; */
-    margin-top: 30px;
+    /* margin-top: 30px;
     margin-left: 120px;
-    margin-right: 50px;
+    margin-right: 50px; */
+    margin: 40px;
 }
 #c{
     background-color:lightpink ;
     height: 150px;
-    width: 750px;
+    width: 650px;
     border-radius: 10px;
     display: inline-block;
     /* margin: 30px 95px; */
-    margin-top: 100px;
+    /* margin-top: 100px;
     margin-left: 120px;
-    margin-right: 50px;
+    margin-right: 50px; */
+    margin: 50px;
 }
 #ch{
     background-color:yellow ;
     height: 150px;
-    width: 750px;
+    width: 650px;
     border-radius: 10px;
     display: inline-block;
     /* margin: 30px 95px; */
-    margin-top: 100px;
+    /* margin-top: 100px;
     margin-left: 120px;
-    margin-right: 50px;
+    margin-right: 50px; */
+    margin: 40px;
 }
 
 
@@ -120,97 +129,105 @@ button{
 #R{
     background-color:lightgray ;
     height: 150px;
-    width: 310px;
+    width: 250px;
     border-radius: 10px;
     display: inline-block;
     /* margin: 30px 95px; */
-    margin-top: 50px;
-    margin-left: 120px;
+    /* margin-top: 50px;
+    margin-left: 120px; */
     /* margin-right: 20px; */
+    margin: 60px;
 }
 
 #kotlin{
     background-color:darkseagreen ;
     height: 150px;
-    width: 310px;
+    width: 250px;
     border-radius: 10px;
     display: inline-block;
     /* margin: 30px 95px; */
-    margin-top: 50px;
-    margin-left: 120px;
+    /* margin-top: 50px;
+    margin-left: 120px; */
     /* margin-right: 20px; */
+    margin: 60px;
 }
 
 #Node{
     background-color:lightskyblue ;
     height: 150px;
-    width: 310px;
+    width: 250px;
     border-radius: 10px;
     display: inline-block;
     /* margin: 30px 95px; */
-    margin-top: 50px;
-    margin-left: 180px;
+    /* margin-top: 50px;
+    margin-left: 180px; */
     /* margin-right: 20px; */
+    margin: 60px;
 }
 #React{
     background-color:lightpink ;
     height: 150px;
-    width: 310px;
+    width: 250px;
     border-radius: 10px;
     display: inline-block;
     /* margin: 30px 95px; */
-    margin-top: 50px;
-    margin-left: 120px;
+    /* margin-top: 50px;
+    margin-left: 120px; */
     /* margin-right: 20px; */
+    margin: 60px;
 }
 
 
 #js{
     background-color:lightyellow ;
     height: 150px;
-    width: 310px;
+    width: 250px;
     border-radius: 10px;
     display: inline-block;
     /* margin: 30px 95px; */
-    margin-top: 50px;
-    margin-left: 120px;
+    /* margin-top: 50px;
+    margin-left: 120px; */
     /* margin-right: 20px; */
+    margin: 60px;
 }
 
 #vu{
     background-color:lightgray ;
     height: 150px;
-    width: 310px;
+    width: 250px;
     border-radius: 10px;
     display: inline-block;
     /* margin: 30px 95px; */
-    margin-top: 50px;
-    margin-left: 120px;
+    /* margin-top: 50px;
+    margin-left: 120px; */
     /* margin-right: 20px; */
+    margin:60px;
 }
 
 #ms{
     background-color:darkseagreen ;
     height: 150px;
-    width: 310px;
+    width: 250px;
     border-radius: 10px;
     display: inline-block;
     /* margin: 30px 95px; */
-    margin-top: 50px;
-    margin-left: 180px;
+    /* margin-top: 50px;
+    margin-left: 180px; */
     /* margin-right: 20px; */
+    margin:60px;
 }
 
 #xml{
     background-color:lightskyblue ;
     height: 150px;
-    width: 310px;
+    width: 250px;
     border-radius: 10px;
     display: inline-block;
     /* margin: 30px 95px; */
-    margin-top: 50px;
-    margin-left: 120px;
+    /* margin-top: 50px;
+    margin-left: 120px; */
     /* margin-right: 20px; */
+    margin:60px;
 }
 
 
@@ -218,51 +235,55 @@ button{
 #ss{
     background-color:lightpink ;
     height: 150px;
-    width: 310px;
+    width: 250px;
     border-radius: 10px;
     display: inline-block;
     /* margin: 30px 95px; */
-    margin-top: 50px;
-    margin-left: 120px;
+    /* margin-top: 50px;
+    margin-left: 120px; */
     /* margin-right: 20px; */
+    margin: 60px;
 }
 
 #ic{
     background-color:lightyellow ;
     height: 150px;
-    width: 310px;
+    width: 250px;
     border-radius: 10px;
     display: inline-block;
     /* margin: 30px 95px; */
-    margin-top: 50px;
-    margin-left: 120px;
+    /* margin-top: 50px;
+    margin-left: 120px; */
     /* margin-right: 20px; */
+    margin:60px;
 }
 
 
 #rwd{
     background-color: lightgray ;
     height: 150px;
-    width: 310px;
+    width: 250px;
     border-radius: 10px;
     display: inline-block;
     /* margin: 30px 95px; */
-    margin-top: 50px;
-    margin-left: 180px;
+    /* margin-top: 50px;
+    margin-left: 180px; */
     /* margin-right: 20px; */
+    margin:60px;
 }
 
 
 #grp{
     background-color:darkseagreen ;
     height: 150px;
-    width: 310px;
+    width: 250px;
     border-radius: 10px;
     display: inline-block;
     /* margin: 30px 95px; */
-    margin-top: 50px;
-    margin-left: 120px;
+    /* margin-top: 50px;
+    margin-left: 120px; */
     /* margin-right: 20px; */
+    margin: 60px;
 }
 
 
@@ -271,51 +292,55 @@ button{
 #svg{
     background-color:lightskyblue ;
     height: 150px;
-    width: 310px;
+    width: 250px;
     border-radius: 10px;
     display: inline-block;
     /* margin: 30px 95px; */
-    margin-top: 50px;
-    margin-left: 120px;
+    /* margin-top: 50px;
+    margin-left: 120px; */
     /* margin-right: 20px; */
+    margin:60px;
 }
 
 #can{
     background-color:lightpink ;
     height: 150px;
-    width: 310px;
+    width: 250px;
     border-radius: 10px;
     display: inline-block;
     /* margin: 30px 95px; */
-    margin-top: 50px;
-    margin-left: 120px;
+    /* margin-top: 50px;
+    margin-left: 120px; */
     /* margin-right: 20px; */
+    margin:60px;
 }
 
 
 #rp{
     background-color: lightyellow ;
     height: 150px;
-    width: 310px;
+    width: 250px;
     border-radius: 10px;
     display: inline-block;
     /* margin: 30px 95px; */
-    margin-top: 50px;
-    margin-left: 180px;
+    /* margin-top: 50px;
+    margin-left: 180px; */
     /* margin-right: 20px; */
+    margin:60px;
 }
 
 
 #cyb{
     background-color:lightgrey ;
     height: 150px;
-    width: 310px;
+    width: 250px;
     border-radius: 10px;
     display: inline-block;
     /* margin: 30px 95px; */
-    margin-top: 50px;
-    margin-left: 120px;
+    /* margin-top: 50px;
+    margin-left: 120px; */
     /* margin-right: 20px; */
+    margin:60px;
 }
 
 
@@ -326,51 +351,55 @@ button{
 #col{
     background-color:darkseagreen ;
     height: 150px;
-    width: 310px;
+    width: 250px;
     border-radius: 10px;
     display: inline-block;
     /* margin: 30px 95px; */
-    margin-top: 50px;
-    margin-left: 120px;
+    /* margin-top: 50px;
+    margin-left: 120px; */
     /* margin-right: 20px; */
+    margin:60px;
 }
 
 #git{
     background-color:lightskyblue ;
     height: 150px;
-    width: 310px;
+    width: 250px;
     border-radius: 10px;
     display: inline-block;
     /* margin: 30px 95px; */
-    margin-top: 50px;
-    margin-left: 120px;
+    /* margin-top: 50px;
+    margin-left: 120px; */
     /* margin-right: 20px; */
+    margin:60px;
 }
 
 
 #mp{
     background-color: lightpink ;
     height: 150px;
-    width: 310px;
+    width: 250px;
     border-radius: 10px;
     display: inline-block;
     /* margin: 30px 95px; */
-    margin-top: 50px;
-    margin-left: 180px;
+    /* margin-top: 50px;
+    margin-left: 180px; */
     /* margin-right: 20px; */
+    margin:60px;
 }
 
 
 #np{
     background-color:lightyellow ;
     height: 150px;
-    width: 310px;
+    width: 250px;
     border-radius: 10px;
     display: inline-block;
     /* margin: 30px 95px; */
-    margin-top: 50px;
-    margin-left: 120px;
+    /* margin-top: 50px;
+    margin-left: 120px; */
     /* margin-right: 20px; */
+    margin: 60px;
 }
 
 
@@ -383,51 +412,55 @@ button{
 #Pand{
     background-color:lightgray ;
     height: 150px;
-    width: 310px;
+    width: 250px;
     border-radius: 10px;
     display: inline-block;
     /* margin: 30px 95px; */
-    margin-top: 50px;
-    margin-left: 120px;
+    /* margin-top: 50px;
+    margin-left: 120px; */
     /* margin-right: 20px; */
+    margin:60px;
 }
 
 #SciPy{
     background-color:darkseagreen;
     height: 150px;
-    width: 310px;
+    width: 250px;
     border-radius: 10px;
     display: inline-block;
     /* margin: 30px 95px; */
-    margin-top: 50px;
-    margin-left: 120px;
+    /* margin-top: 50px;
+    margin-left: 120px; */
     /* margin-right: 20px; */
+    margin:60px;
 }
 
 
 #asp{
     background-color:lightskyblue ;
     height: 150px;
-    width: 310px;
+    width: 250px;
     border-radius: 10px;
     display: inline-block;
     /* margin: 30px 95px; */
-    margin-top: 50px;
-    margin-left: 180px;
+    /* margin-top: 50px;
+    margin-left: 180px; */
     /* margin-right: 20px; */
+    margin:60px;
 }
 
 
 #aj{
     background-color:lightpink ;
     height: 150px;
-    width: 310px;
+    width: 250px;
     border-radius: 10px;
     display: inline-block;
     /* margin: 30px 95px; */
-    margin-top: 50px;
-    margin-left: 120px;
+    /* margin-top: 50px;
+    margin-left: 120px; */
     /* margin-right: 20px; */
+    margin: 60px;
 }
 
 
@@ -437,51 +470,55 @@ button{
 #apm{
     background-color:lightyellow ;
     height: 150px;
-    width: 310px;
+    width: 250px;
     border-radius: 10px;
     display: inline-block;
     /* margin: 30px 95px; */
-    margin-top: 50px;
-    margin-left: 120px;
+    /* margin-top: 50px;
+    margin-left: 120px; */
     /* margin-right: 20px; */
+    margin:60px;
 }
 
 #go{
     background-color:lightgrey ;
     height: 150px;
-    width: 310px;
+    width: 250px;
     border-radius: 10px;
     display: inline-block;
     /* margin: 30px 95px; */
-    margin-top: 50px;
-    margin-left: 120px;
+    /* margin-top: 50px;
+    margin-left: 120px; */
     /* margin-right: 20px; */
+    margin:60px;
 }
 
 
 #ts{
     background-color: darkseagreen ;
     height: 150px;
-    width: 310px;
+    width: 250px;
     border-radius: 10px;
     display: inline-block;
     /* margin: 30px 95px; */
-    margin-top: 50px;
-    margin-left: 180px;
+    /* margin-top: 50px;
+    margin-left: 180px; */
     /* margin-right: 20px; */
+    margin:60px;
 }
 
 
 #dj{
     background-color:lightskyblue;
     height: 150px;
-    width: 310px;
+    width: 250px;
     border-radius: 10px;
     display: inline-block;
     /* margin: 30px 95px; */
-    margin-top: 50px;
-    margin-left: 120px;
+    /* margin-top: 50px;
+    margin-left: 120px; */
     /* margin-right: 20px; */
+    margin:60px;
 }
 
 
@@ -490,51 +527,55 @@ button{
 #md{
     background-color:lightpink ;
     height: 150px;
-    width: 310px;
+    width: 250px;
     border-radius: 10px;
     display: inline-block;
     /* margin: 30px 95px; */
-    margin-top: 50px;
-    margin-left: 120px;
+    /* margin-top: 50px;
+    margin-left: 120px; */
     /* margin-right: 20px; */
+    margin:60px;
 }
 
 #stat{
     background-color:lightyellow ;
     height: 150px;
-    width: 310px;
+    width: 250px;
     border-radius: 10px;
     display: inline-block;
     /* margin: 30px 95px; */
-    margin-top: 50px;
-    margin-left: 120px;
+    /* margin-top: 50px;
+    margin-left: 120px; */
     /* margin-right: 20px; */
+    margin:60px;
 }
 
 
 #ds{
     background-color: lightgray ;
     height: 150px;
-    width: 310px;
+    width: 250px;
     border-radius: 10px;
     display: inline-block;
     /* margin: 30px 95px; */
-    margin-top: 50px;
-    margin-left: 180px;
+    /* margin-top: 50px;
+    margin-left: 180px; */
     /* margin-right: 20px; */
+    margin:60px;
 }
 
 
 #tys{
     background-color:darkseagreen ;
     height: 150px;
-    width: 310px;
+    width: 250px;
     border-radius: 10px;
     display: inline-block;
     /* margin: 30px 95px; */
-    margin-top: 50px;
-    margin-left: 120px;
+    /* margin-top: 50px;
+    margin-left: 120px; */
     /* margin-right: 20px; */
+    margin:60px;
 }
 
 
@@ -545,51 +586,55 @@ button{
 #ht{
     background-color:lightskyblue ;
     height: 150px;
-    width: 310px;
+    width: 250px;
     border-radius: 10px;
     display: inline-block;
     /* margin: 30px 95px; */
-    margin-top: 50px;
-    margin-left: 120px;
+    /* margin-top: 50px;
+    margin-left: 120px; */
     /* margin-right: 20px; */
+    margin:60px;
 }
 
 #cg{
     background-color:lightpink ;
     height: 150px;
-    width: 310px;
+    width: 250px;
     border-radius: 10px;
     display: inline-block;
     /* margin: 30px 95px; */
-    margin-top: 50px;
-    margin-left: 120px;
+    /* margin-top: 50px;
+    margin-left: 120px; */
     /* margin-right: 20px; */
+    margin:60px;
 }
 
 
 #spaces{
     background-color:lightyellow ;
     height: 150px;
-    width: 310px;
+    width: 250px;
     border-radius: 10px;
     display: inline-block;
     /* margin: 30px 95px; */
-    margin-top: 50px;
-    margin-left: 180px;
+    /* margin-top: 50px;
+    margin-left: 180px; */
     /* margin-right: 20px; */
+    margin:60px;
 }
 
 
 #pg{
     background-color:lightgrey ;
     height: 150px;
-    width: 310px;
+    width: 250px;
     border-radius: 10px;
     display: inline-block;
     /* margin: 30px 95px; */
-    margin-top: 50px;
-    margin-left: 120px;
+    /* margin-top: 50px;
+    margin-left: 120px; */
     /* margin-right: 20px; */
+    margin:60px;
 }
 
 
@@ -599,24 +644,26 @@ button{
 #ex{
     background-color:lightskyblue ;
     height: 150px;
-    width: 750px;
+    width: 650px;
     border-radius: 10px;
     display: inline-block;
     /* margin: 30px 95px; */
-    margin-top: 100px;
+    /* margin-top: 100px;
     margin-left: 120px;
-    margin-right: 50px;
+    margin-right: 50px; */
+    margin: 45px;
 }
 #dsa{
     background-color:lightyellow ;
     height: 150px;
-    width: 750px;
+    width: 650px;
     border-radius: 10px;
     display: inline-block;
     /* margin: 30px 95px; */
-    margin-top: 100px;
+    /* margin-top: 100px;
     margin-left: 120px;
-    margin-right: 50px;
+    margin-right: 50px; */
+    margin: 45px;
 }
 
 
@@ -625,24 +672,26 @@ button{
 #ml{
     background-color:lightpink ;
     height: 150px;
-    width: 750px;
+    width: 650px;
     border-radius: 10px;
     display: inline-block;
     /* margin: 30px 95px; */
-    margin-top: 100px;
+    /* margin-top: 100px;
     margin-left: 120px;
-    margin-right: 50px;
+    margin-right: 50px; */
+    margin: 45px;
 }
 #ai{
     background-color:lightgray ;
     height: 150px;
-    width: 750px;
+    width: 650px;
     border-radius: 10px;
     display: inline-block;
     /* margin: 30px 95px; */
-    margin-top: 100px;
+    /* margin-top: 100px;
     margin-left: 120px;
-    margin-right: 50px;
+    margin-right: 50px; */
+    margin: 45px;
 }
 
 #ce{
