@@ -43,11 +43,21 @@ body{
     background-color: black;
 }
 
+
+div>img:hover{
+    transform: scale(0.5);
+}
+
+
 #ftr{
     color:skyblue;
     font-size: 50px;
     margin: 20px;
     text-shadow: 10px 20px 20px white;
     font-family:Georgia, 'Times New Roman', Times, serif;
+
 }
+
+
+
 

@@ -1,0 +1,177 @@
+*{
+    box-sizing: border-box;
+    margin: 0px;
+    padding: 0px;
+}
+body{
+    background-color: white;
+    width: 100%;
+}
+
+.menu>a{
+    /* position: fixed;
+     */
+    padding: 10px;
+    margin-right: 3px;
+    text-decoration: none;
+}
+#tx{
+    font-size: 20px;
+    color: black;
+}
+input{
+    border: 2px solid black;
+    height: 20px;
+    border-radius: 50px;
+}
+
+#dark{
+    margin-right: 40px;
+}
+/* .but{
+    border: 2px solid black;
+    border-radius: 50px;
+    background-color: aquamarine;
+} */
+
+
+.n1{
+    background-color: white;
+    margin-top: 0px;
+    margin-bottom: 30px;
+    padding-top: 15px;
+    position: fixed;
+    width: 100%;
+}
+ .ts{
+    background-color:rgba(50,50,50);
+    height: 70px;
+    width: 100%;
+    margin-top: 60px;
+    position: fixed;
+    padding-top: 10px;
+ }
+
+.skl>a{
+    display: inline-block;
+    text-decoration: none;
+    color: white;
+    margin-right: 13px;
+    margin-left: 10px;
+   
+    font-size: 16px;
+}
+.skl>a:hover{
+    background-color: black;
+    box-sizing: border-box;
+}
+.menu>a:hover{
+    background-color:lightseagreen;
+    box-sizing: border-box;
+}
+.menu{
+    background-color: white;
+    /* position: fixed; */
+}
+.ind{
+   
+    display: block;
+    position: fixed;
+}
+.ct{
+    background-color:white;
+    height: 100px;
+ }
+
+ .ct2{
+    background-color: rgb(50,50,50);
+    height: 1200px;
+    width: 100%;
+ }
+ .ct2{
+    font-size: 30px;
+    color: white;
+ }
+
+ h1{
+    font-family:Verdana, Geneva, Tahoma, sans-serif
+
+ }
+
+ .ct2{
+    padding: 10px;
+ }
+ h6{
+    padding: 10px;
+    /* margin-left: 0px; */
+ }
+
+ #stu{
+    height: 40px;
+    width: 300px;
+    /* border-top-left-radius:50px ; */
+    /* border-bottom-right-radius:50 px ; */
+    border-radius: 0px;
+    border-right: 2px solid black;
+    
+ }
+ #sch{
+    height: 39px;
+    width: 90px;
+    background-color: lightseagreen;
+    /* z-index: -5; */
+ }
+ #stu{
+
+    border: 2px solid black;
+    border-radius: 50px;
+    /* margin-left: -90px; */
+    /* margin-left: 0px; */
+    z-index: -1;
+
+ }
+ #sch{
+    border: 2px solid black;
+    border-radius: 50px;
+    margin-left: -90px;
+    /* margin-left: 350px; */
+    z-index: -1;
+ }
+ #fg{
+      display: block;
+     padding-top: 50px; 
+     color: white;
+     font-size: 25px;
+     /* margin-right: 60px; */
+ }
+
+ #fg:hover{
+    color: yellow;
+ }
+ h6,#bb{
+    display: inline-block;
+    /* margin-left: 150px; */
+    margin-top: 50px;
+
+ }
+
+ #gu{
+    /* margin-left: 80px; */
+ }
+
+
+
+ 
+
+
+
+
+
+
+
+
+
+
+
+
+
