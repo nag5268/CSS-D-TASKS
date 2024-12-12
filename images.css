@@ -1,0 +1,46 @@
+#main{
+    width: 50vw;
+    height: 80vh;
+    background-color: lightslategray;
+    background-image: url(https://images4.alphacoders.com/857/857434.jpg);
+    background-size: cover;
+    position: relative;
+    top: 50px;
+}
+
+#i1{
+    position: absolute;
+    top: -20px;
+    left: -100px;
+}
+
+#i2{
+    position: absolute;
+    top: -20px;
+    right: -100px;
+}
+
+#i3{
+    position: absolute;
+    bottom: -20px;
+    left: -100px;
+}
+
+#i4{
+    position: absolute;
+    bottom: -20px;
+    right: -100px;
+}
+#id{
+    position: absolute;
+    top: 200px;
+    left: 280px;
+}
+img{
+    border-radius: 25px;
+}
+
+
+
+
+
