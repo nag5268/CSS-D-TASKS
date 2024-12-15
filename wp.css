@@ -1,0 +1,199 @@
+section{
+    height: 90vh;
+    width: 25vw;
+    background-image: url(Whats.png);
+    background-size: cover;
+    border-radius: 10px;
+    position: fixed;
+    /* z-index: -1; */
+    overflow: scroll;
+    overflow-x: hidden;
+    /* overflow-y: hidden; */
+
+    -ms-overflow-style: none;
+    scrollbar-width: none;
+    margin-left: 37vw;
+    margin-top: 2vh;
+    padding-bottom: 6vh;
+}
+
+
+
+nav{
+    width: 25vw;
+    height: 10vh;
+    background-image: url(drkw.png);
+    border-radius: 10px;
+    z-index: 10;
+    position: fixed;
+}
+
+footer{
+    z-index: 10;
+    position: fixed;
+    top: 91.5vh;
+    padding-left: 0.3vw;
+
+}
+
+
+#ar{
+    position: absolute;
+    /* top: 2px; */
+    left: 0px;
+    top: 3vh;
+    color: white;
+    margin-left: 5px;
+    font-size: 30px; 
+}
+#ig{
+    position: absolute;
+    left: 40px;
+    top: 2vh;
+}
+#ig>img{
+    border-radius: 50px;
+}
+#contact{
+    color: white;
+    position: absolute;
+    left: 90px;
+    top: -1vh;
+    font-size: 1.5rem;
+}
+#vid{
+    color: white;
+    position: absolute;
+    left: 35vh;
+    top: 3vh;
+    font-size: 30px;
+}
+
+#call{
+    color: white;
+    position: absolute;
+    left: 43vh;
+    top: 3vh;
+    font-size: 30px;
+}
+
+#menu{
+    color: white;
+    position: absolute;
+    left: 51vh;
+    top: 3vh;
+    font-size: 30px;
+}
+
+.left{
+    text-align: left;
+    padding-left: 3vw;
+    font-size: 20px;
+}
+
+.left>p>span{
+    border-radius: 5px;
+    padding: 0.5vh;
+}
+
+
+.left>p{
+    margin-top: 9vh;
+    position: relative;
+}
+
+.right{
+    text-align: right;
+    padding-right: 3vw;
+    font-size: 20px;
+    
+}
+
+
+.right>p>span{
+    border-radius: 5px;
+    padding: 1vh;
+}
+
+.right>p{
+    margin-top: 9vh;
+    position: relative;
+}
+
+
+.date{
+  
+    text-align: center;
+    justify-content: center;
+    background-color: lightgoldenrodyellow;
+    color: black;
+    z-index: 3;
+    width: 8vw;
+    position: sticky;
+    top: 15vh;
+    left: 9vw;
+}
+
+#ig1>img{
+    border-radius: 50px;
+    position: absolute;
+    top:-1vh;
+    left: -3vw;
+    z-index: 3;
+}
+
+
+#ig2>img{
+    border-radius: 50px;
+    position: absolute;
+    top:-1vh;
+    right: -3vw;
+    z-index: 5;
+}
+/* 
+#bhagi>#ig:hover~aside{
+    z-index: 6;
+    margin-top: 100px;
+    display: block;
+
+} */
+
+
+/* #dp {
+    display: none;
+    z-index: 9;
+}
+
+#bhagi:hover #dp {
+    display: block;
+    /* z-index: 9; */
+
+
+
+#bhagi {
+    position: relative; 
+}
+
+#dp {
+    display: none; 
+    position: absolute;
+    top: 50px; 
+    left: 1vw;
+    background-color: white;
+    border: 1px solid #ccc;
+    height: 300px;
+    width: 200px;
+    z-index: 10;
+}
+
+
+#bhagi:hover #dp {
+    display: block;
+}
+
+
+
+
+
+
+

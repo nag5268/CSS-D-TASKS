@@ -1,0 +1,34 @@
+#main{
+    height: 60vh;
+    width: 100vw;
+    /* background-color: blanchedalmond; */
+    position: relative;
+}
+#orange{
+    background-color: orange;
+    height: 20vh;
+    width: 100vw;
+    position: relative;
+}
+
+#white{
+    background-color: white;
+    height: 20vh;
+    width: 100vw;
+    position: relative;
+}
+
+
+#green{
+    background-color: green;
+    height: 20vh;
+    width: 100vw;
+    position: relative;
+}
+
+img{
+    position: absolute;
+    top: 20vh;
+    left: 45vw;
+    /* position: fixed; */
+}
